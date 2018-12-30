@@ -11,6 +11,7 @@ gem 'require_all'
 gem 'sqlite3'
 gem 'thin'
 gem 'shotgun'
+gem 'awesome_print'
 gem 'pry'
 
 group :test do
